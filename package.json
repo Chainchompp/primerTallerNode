@@ -12,9 +12,15 @@
   "author": "Giro",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "browserify": "^17.0.0",
+    "watchify": "^4.0.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/node": "^7.14.9",
+    "@babel/preset-env": "^7.15.0",
+    "babelify": "^10.0.0",
     "mocha": "^9.0.3"
   }
 }
