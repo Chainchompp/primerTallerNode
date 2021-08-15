@@ -12,7 +12,7 @@ const getData = () =>{
 console.log(getData())
 
 
-const moment = require('moment')
+//const moment = require('moment')
 
 const funcionNueva = ()=>{
 
