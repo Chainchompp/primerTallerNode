@@ -1,0 +1,20 @@
+{
+  "name": "taller-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hola mundo\" && exit 1",
+    "start": "node index.js",
+    "prestart": "echo iniciando",
+    "poststart": "echo finalizando"
+  },
+  "author": "Giro",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  }
+}
