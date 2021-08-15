@@ -12,7 +12,7 @@ const getData = () =>{
 console.log(getData())
 
 
-//const moment = require('moment')
+/*const moment = require('moment')
 
 const funcionNueva = ()=>{
 
@@ -25,3 +25,4 @@ setTimeout(funcioncallback,timeMili)
     function funcionNueva2() {
 
 }
+*/
